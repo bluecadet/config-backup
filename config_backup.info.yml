@@ -1,0 +1,9 @@
+name: Config Backup
+type: module
+description: Back and manage config files.
+core: 8.x
+package: Bluecadet
+dependencies:
+  - config
+
+version: '8.x-0.1'
